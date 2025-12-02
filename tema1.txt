@@ -1,0 +1,92 @@
+RESUMEN: INTRODUCCION A LA NORMALIZACION
+
+CONCEPTOS BASICOS La normalización es una actividad realizada por un colectivo para buscar soluciones a situaciones repetitivas, elaborando y aplicando normas.
+
+-- ¿Qué es una norma? -- Es una especificación técnica con las siguientes características fundamentales:
+
+Es voluntaria (no es una ley).
+
+
+
+Es accesible al público.
+
+Se elabora por consenso de todas las partes interesadas (fabricantes, usuarios, administración).
+
+
+Se basa en la experiencia y el desarrollo tecnológico.
+
+-- Tipos de normas --
+
+Normas de producto o servicio: Definen características, dimensiones o niveles de calidad (Ej: UNE para neumáticos o servicios hoteleros) .
+
+Normas de personas: Definen competencias profesionales.
+
+Normas de sistemas de gestión: Definen cómo se gestiona una organización (Ej: ISO 9001 de Calidad) .
+
+ORGANISMOS DE NORMALIZACION Existe una jerarquía geográfica para garantizar la compatibilidad técnica:
+
+-- Nivel Internacional (Mundo) --
+
+ISO: Organización Internacional de Normalización (sectores generales).
+
+IEC: Comisión Electrotécnica Internacional (sector eléctrico/electrónico).
+
+ITU: Unión Internacional de Telecomunicaciones.
+
+-- Nivel Regional (Europa) --
+
+CEN: Comité Europeo de Normalización.
+
+CENELEC: Comité Europeo de Normalización Electrotécnica.
+
+ETSI: Instituto Europeo de Normas de Telecomunicación.
+
+-- Nivel Nacional (España) --
+
+UNE (Asociación Española de Normalización): Es el organismo responsable de la normalización en España. Representa al país ante ISO y CEN.
+
+
+Nota importante sobre AENOR: Desde 2017, AENOR se dedica exclusivamente a la certificación (negocio), mientras que UNE se encarga de la normalización (asociación sin ánimo de lucro) .
+
+ELABORACION Y NOMENCLATURA Las normas las crean los Comités Técnicos de Normalización (CTN). El proceso incluye redacción, información pública (se publica en el BOE para recibir observaciones), aprobación y publicación final .
+
+
+-- Interpretación de siglas (Ejemplo: UNE-EN ISO) --
+
+ISO: Indica que es una norma internacional.
+
+EN: Indica que Europa ha adoptado esa norma internacional.
+
+UNE: Indica que España ha adoptado la norma europea como nacional.
+
+DISTINCION DE TERMINOS CLAVE Es vital diferenciar estas tres actividades de la infraestructura de la calidad:
+
+A) Normalización
+
+Definición: Elaborar las normas (escribir las reglas).
+
+Responsable en España: UNE .
+
+B) Certificación
+
+Definición: Verificar que una empresa o producto cumple la norma a través de auditorías. Aporta confianza y diferenciación.
+
+Responsables: Entidades certificadoras como AENOR, SGS, Bureau Veritas, etc. .
+
+
+C) Acreditación
+
+Definición: Es el examen a los certificadores. Autoriza formalmente a una entidad para que pueda certificar.
+
+Responsable en España: ENAC (Entidad Nacional de Acreditación). Es el único organismo con esta potestad a nivel nacional.
+
+
+
+MARCO LEGISLATIVO Y OBJETIVOS
+
+Objetivos: Seguridad, calidad, protección ambiental y eliminación de barreras técnicas al comercio para abrir mercados .
+
+
+Legislación base en España: Ley 21/1992 de Industria y Real Decreto 2200/1995 (Reglamento de Infraestructura para la Calidad y Seguridad Industrial) .
+
+Contexto Europeo: Se busca facilitar el Mercado Único Europeo y la libre circulación de mercancías .
