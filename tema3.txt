@@ -1,0 +1,94 @@
+RESUMEN: LA GESTION POR PROCESOS Y EL CICLO PDCA
+
+INTRODUCCION: ORGANIZACION VERTICAL VS HORIZONTAL Existen dos formas complementarias de entender la estructura de una organización:
+
+-- Organización Vertical (El Organigrama) -- Representa la jerarquía, la autoridad y los departamentos (visión funcional). Responde a la pregunta: "¿Cómo vamos a repartir el trabajo?". Sin embargo, esta visión suele ser lenta y poco eficaz para asegurar que la suma de actividades cumpla los objetivos del cliente.
+
+
+
+
+
+-- Organización Horizontal (Gestión por Procesos) -- Analiza la organización a través del flujo de trabajo y la visión del cliente. Responde a la pregunta: "¿Cómo realizamos nuestro trabajo?". Aporta orden, alinea las actividades con la misión y orienta la actividad hacia la satisfacción del cliente.
+
+
+
+
+
+CONCEPTO DE PROCESO Un proceso es un conjunto de actividades mutuamente relacionadas que transforman elementos de entrada (inputs) en resultados (outputs), aportando valor añadido.
+
+
+-- Elementos clave de un proceso --
+
+Entradas: Necesidades o materiales que desencadenan el proceso.
+
+Directrices: Normas y pautas obligatorias para realizar el proceso.
+
+Recursos: Materiales, equipamiento y conocimientos utilizados (incluye el "know-how").
+
+Salidas: Resultados obtenidos con valor añadido.
+
+Proveedores y Clientes: Pueden ser tanto externos (ajenos a la organización) como internos (otros departamentos o empleados).
+
+
+Propietario del proceso: Persona responsable de coordinar y vigilar el proceso, asegurando que no haya barreras entre departamentos.
+
+DIFERENCIA ENTRE PROCESO, PROCEDIMIENTO E INSTRUCCION Es fundamental no confundir estos términos:
+
+Proceso: La secuencia de actividades que transforman entradas en salidas.
+
+Procedimiento: Es el proceso sistematizado, normalizado y documentado. Es un documento escrito que especifica cómo llevar a cabo una actividad.
+
+
+Instrucción Técnica (IT): Es el documento con el máximo nivel de detalle, explicando cómo ejecutar una tarea específica dentro de un procedimiento (ej: cómo manejar una máquina concreta).
+
+FASES DE IMPLANTACION DE LA GESTION POR PROCESOS La implantación requiere cuatro fases definidas:
+
+-- Fase 1: Identificación y Clasificación (Mapa de Procesos) -- El Mapa de Procesos es la representación gráfica global de la actividad de la empresa. Se clasifican en tres tipos:
+
+Procesos Estratégicos: Decisiones directivas que condicionan el medio/largo plazo (ej: Planificación, Gestión de Calidad).
+
+
+Procesos Clave u Operativos: Representan la esencia del negocio, tocan directamente al cliente y cumplen la misión (ej: Alojamiento, Restauración, Ventas) .
+
+Procesos de Apoyo o Soporte: Sirven de ayuda a los procesos clave y estratégicos (ej: Limpieza, Mantenimiento, Compras).
+
+-- Fase 2: Priorización y Descripción -- Consiste en documentar los procesos mediante:
+
+Flujograma (Diagrama de flujo): Descripción gráfica secuencial utilizando símbolos estandarizados (inicio, decisión, actividad, documento).
+
+
+Ficha de Proceso: Documento que resume las características del proceso: misión, propietario, alcance (inicio y fin), normas, riesgos y acciones para abordarlos.
+
+
+
+-- Fase 3: Seguimiento e Indicadores -- Los indicadores permiten evaluar el rendimiento. Deben ser válidos, fiables y eficientes .
+
+Indicadores de entrada: Controlan los recursos antes de empezar.
+
+Indicadores de salida: Miden el resultado final y si se cumplió lo esperado.
+
+Indicadores de proceso: Miden aspectos intermedios para corregir fallos sobre la marcha.
+
+-- Fase 4: Mejora de Procesos (Ciclo PDCA) -- La gestión no es estática; busca la mejora continua mediante el ciclo Planificar-Hacer-Verificar-Actuar.
+
+
+EL CICLO PDCA (MEJORA CONTINUA) El ciclo PDCA (Plan-Do-Check-Act) es la base de la mejora y consta de 4 pasos:
+
+A) Plan (Planificar): Se identifica el problema, se analizan las causas y se definen objetivos. Se recopilan datos para comprender el proceso y determinar los resultados esperados.
+
+
+Herramientas: AMFE, Diagrama de Gantt, Lluvia de ideas .
+
+B) Do (Hacer): Implementar las acciones planificadas y capacitar al personal implicado.
+
+
+C) Check (Verificar): Medir y evaluar los resultados obtenidos comparándolos con los objetivos. Se revisa si las medidas aplicadas redujeron los defectos o problemas.
+
+
+Herramientas: Diagrama de Pareto, Ishikawa, Listas de verificación.
+
+D) Act (Actuar):
+
+Si el resultado fue exitoso: Se estandariza el nuevo procedimiento y se documenta.
+
+Si no se alcanzó el objetivo: Se analizan nuevas causas y se reinicia el ciclo (retroalimentación).

@@ -1,0 +1,91 @@
+RESUMEN: GESTION DE LA SEGURIDAD Y SALUD EN EL TRABAJO (ISO 45001)
+
+INTRODUCCION E HISTORIA La preocupación por los riesgos laborales ha evolucionado desde la antigüedad (Código de Hammurabi, Egipto) hasta la actualidad.
+
+Revolución Industrial: Se caracterizó por la falta de derechos y la alta siniestralidad. No existía responsabilidad del empleador .
+
+Hitos modernos: La creación de la Organización Internacional del Trabajo (OIT) en 1919 y, en España, la Ley de Prevención de Riesgos Laborales.
+
+Concepto de SST: Son las técnicas y procedimientos para eliminar o disminuir el riesgo de accidentes y enfermedades, promoviendo el bienestar físico, mental y social (alineado con la OMS) .
+
+LA NORMA ISO 45001:2018 Es el primer estándar internacional para sistemas de gestión de SST, sustituyendo a la norma británica OHSAS 18001.
+
+Objetivo: Proporcionar un marco para gestionar riesgos, prevenir lesiones y deterioro de la salud, y proporcionar lugares de trabajo seguros .
+
+Estructura de Alto Nivel (HLS): Adopta el "Anexo SL", compartiendo estructura, textos y definiciones con normas como ISO 9001 e ISO 14001 para facilitar la integración .
+
+-- Novedades frente a OHSAS 18001 --
+
+Mayor énfasis en el liderazgo y compromiso de la dirección.
+
+Participación y consulta de los trabajadores .
+
+Enfoque a procesos y pensamiento basado en riesgos.
+
+Gestión del cambio y eliminación del concepto de "acción preventiva" (el sistema es preventivo en sí mismo) .
+
+ESTRUCTURA DE LA NORMA (CICLO PHVA) La norma sigue el ciclo Planificar-Hacer-Verificar-Actuar:
+
+A) Contexto y Liderazgo (Capítulos 4 y 5) La organización debe determinar cuestiones internas/externas (DAFO) y necesidades de partes interesadas. La alta dirección debe rendir cuentas, proteger a los trabajadores de represalias al informar riesgos y apoyar la creación de comités de seguridad .
+
+
+B) Planificación (Capítulo 6)
+
+Identificación de peligros: Debe ser un proceso continuo y proactivo (físicos, químicos, psicosociales, etc.) .
+
+Evaluación de riesgos: La norma no impone una metodología concreta, dando libertad a la empresa (ej: Método Fine).
+
+Requisitos legales: Determinar y actualizar la legislación aplicable.
+
+C) Soporte y Operación (Capítulos 7 y 8)
+
+Recursos y Competencia: Asegurar que los trabajadores son competentes y conscientes de los riesgos.
+
+Comunicación: Definir qué, cuándo y a quién comunicar interna y externamente.
+
+Información documentada: Sustituye a los términos "documentos" y "registros".
+
+Control operacional: Incluye la gestión del cambio, compras (contratistas) y la preparación ante emergencias.
+
+
+D) Evaluación y Mejora (Capítulos 9 y 10)
+
+Seguimiento y medición: Evaluar el desempeño y el cumplimiento legal.
+
+Auditoría interna: Verificar la conformidad del sistema.
+
+Revisión por la dirección: La alta dirección debe revisar el sistema periódicamente.
+
+Mejora: Investigar incidentes y no conformidades para aplicar acciones correctivas .
+
+PROCESO DE IMPLANTACION (8 FASES)
+
+Decisión y compromiso de la Dirección.
+
+Elección del responsable del sistema.
+
+Creación de un Comité de implementación.
+
+Diagnóstico inicial (comparar situación real vs. norma).
+
+Formación del personal.
+
+Elaboración de la documentación (Manual, procedimientos, instrucciones y registros) .
+
+Implantación (puesta en marcha y gestión del cambio cultural).
+
+Certificación (Auditoría externa).
+
+-- Documentación requerida -- Aunque se busca reducir la burocracia, es necesario mantener documentos como: Alcance, Política, Roles y responsabilidades, Identificación de riesgos, Objetivos, Planes de emergencia y Registros de formación/auditorías, entre otros .
+
+METODO WILLIAM T. FINE (EVALUACION DE RIESGOS) Es una metodología matemática para evaluar y priorizar riesgos. Calcula el Grado de Peligrosidad (R) mediante la fórmula:
+
+R = C x E x P
+
+C (Consecuencias): Daños esperados si ocurre el accidente (desde 1 punto por lesiones leves hasta 100 por catástrofe) .
+
+E (Exposición): Frecuencia con la que se presenta la situación de riesgo (desde 0,5 remota hasta 10 continuada) .
+
+P (Probabilidad): Posibilidad de que la secuencia del accidente se complete (desde 0,1 prácticamente imposible hasta 10 si es el resultado más probable) .
+
+El resultado permite justificar económicamente las acciones correctivas y priorizar qué riesgos atacar primero.

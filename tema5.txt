@@ -1,0 +1,91 @@
+RESUMEN: LA GESTION DE LA CALIDAD Y HERRAMIENTAS
+
+PARTE I: CONCEPTOS Y EVOLUCION DE LA CALIDAD
+
+CONCEPTO DE CALIDAD La definición de calidad es relativa, subjetiva y dinámica. Depende de quién la valore (cliente, empresa) y del momento histórico.
+
+-- Enfoques principales de la calidad --
+
+Como conformidad (Enfoque interno): Cumplir con las especificaciones técnicas de diseño. Es fácil de medir (cero defectos), pero ignora al cliente .
+
+Como satisfacción del cliente (Enfoque externo): Lo importante es la percepción del cliente. La calidad es la diferencia entre lo que el cliente espera y lo que recibe .
+
+Como valor: Introduce la variable coste/precio. Es calidad adecuada a las necesidades a bajo coste .
+
+Como excelencia (TQM): Es una visión global. Implica mejora continua, satisfacción de todos los grupos de interés (stakeholders) y participación de toda la organización .
+
+EVOLUCION HISTORICA (4 ETAPAS) A) Inspección masiva (Inicios s. XX): Se centraba en verificar el producto final. Era costoso porque el error ya estaba hecho . B) Control de procesos (Mediados s. XX): Se usan técnicas estadísticas para controlar el proceso mientras ocurre, reduciendo variabilidad y costes . C) Aseguramiento y Gestión de la Calidad (Finales s. XX): Surgen las normas ISO 9000. Se pasa de controlar a prevenir y gestionar sistemas documentados para dar confianza al cliente . D) Gestión de la Calidad Total (TQM) y Excelencia (Actualidad): Se busca la excelencia sostenible satisfaciendo a todos los grupos de interés (clientes, empleados, sociedad). Modelos como EFQM .
+
+
+
+
+SISTEMAS DE GESTION NORMALIZADOS (ISO 9000) Las normas ISO ponen orden en la gestión. La familia ISO 9000 es la referencia mundial.
+
+-- Normas clave de la familia --
+
+ISO 9000 (2015): Fundamentos y vocabulario. Define los 7 principios de gestión: Enfoque al cliente, Liderazgo, Compromiso de las personas, Enfoque a procesos, Mejora, Toma de decisiones basada en evidencia y Gestión de relaciones .
+
+ISO 9001 (2015): Requisitos. Es la única norma certificable. Establece qué debe cumplir una organización para garantizar calidad .
+
+ISO 9004 (2018): Éxito sostenido. Guía para ir más allá de la 9001 hacia la excelencia .
+
+-- Estructura de Alto Nivel (HLS) de la ISO 9001:2015 -- La norma sigue una estructura común con otros sistemas (como ISO 14001 o ISO 45001) para facilitar la integración. Sus ejes principales son:
+
+Contexto de la organización (análisis interno/externo, DAFO).
+
+Liderazgo (compromiso de la alta dirección, sin necesidad obligatoria de un "responsable de calidad" específico).
+
+Enfoque a procesos y pensamiento basado en riesgos (prevenir antes que corregir) .
+
+Gestión del cambio.
+
+DOCUMENTACION Y CERTIFICACION Un Sistema de Gestión de Calidad (SGC) requiere un soporte documental:
+
+Manual de Calidad (mapa de procesos, alcance).
+
+Procedimientos y Instrucciones Técnicas.
+
+Información documentada (registros y evidencias).
+
+
+El proceso de certificación lo realiza una entidad externa acreditada (como AENOR, SGS) mediante auditorías. El certificado suele tener validez de 3 años con revisiones periódicas .
+
+MODELO DE EXCELENCIA EFQM 2020 Es un modelo no prescriptivo (no da normas, sino guías) para evaluar la excelencia. Se basa en la lógica REDER (Resultados, Enfoque, Despliegue, Evaluación, Revisión).
+
+-- Estructura del modelo (1.000 puntos) --
+
+Dirección (20%): Propósito, visión, estrategia y liderazgo.
+
+Ejecución (40%): Implicar a grupos de interés, crear valor sostenible y gestionar el funcionamiento.
+
+Resultados (40%): Percepción de grupos de interés y rendimiento operativo .
+
+PARTE II: LAS 7 HERRAMIENTAS BASICAS DE LA CALIDAD (KAORU ISHIKAWA)
+
+Son técnicas gráficas y sencillas para identificar y solucionar problemas, diseñadas para ser usadas por cualquier empleado.
+
+HOJA DE COMPROBACION (Checklist) Formato para recoger datos de manera sistemática y organizada en tiempo real. Es el punto de partida para analizar cualquier situación objetivamente .
+
+HISTOGRAMA Gráfico de barras que muestra la distribución de frecuencia de un conjunto de datos. Permite ver la variabilidad de un proceso y si cumple con las especificaciones (centrado, dispersión).
+
+
+DIAGRAMA DE PARETO Gráfico de barras ordenado de mayor a menor frecuencia. Se basa en la regla 80/20: el 80% de los problemas provienen del 20% de las causas. Ayuda a priorizar qué problemas "vitales" resolver primero .
+
+DIAGRAMA DE ISHIKAWA (Causa-Efecto / Espina de Pescado) Herramienta visual para identificar la causa raíz de un problema. El problema es la "cabeza" y las causas son las "espinas", agrupadas generalmente en las 4M (Método, Mano de obra, Material, Máquina) o 4P (Personas, Políticas, Procedimientos, Planta) .
+
+
+DIAGRAMA DE DISPERSION Gráfico XY para analizar la relación entre dos variables. Permite ver si existe correlación (positiva, negativa o nula) entre una causa y un efecto .
+
+ESTRATIFICACION Técnica que consiste en separar o clasificar los datos en grupos (estratos) por categorías (ej: por turno, por máquina, por día) para encontrar patrones que quedan ocultos cuando se miran los datos en conjunto .
+
+GRAFICO DE CONTROL Línea temporal que muestra la evolución de un proceso. Incluye una línea central (promedio) y límites de control superior e inferior. Sirve para detectar si el proceso es estable o si hay causas especiales de variación (puntos fuera de los límites) .
+
+-- Otras herramientas complementarias --
+
+Tormenta de ideas (Brainstorming).
+
+Diagrama de flujo.
+
+Los 5 Porqués.
+
+AMFE (Análisis Modal de Fallos y Efectos).

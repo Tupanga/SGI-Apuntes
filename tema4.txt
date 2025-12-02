@@ -1,0 +1,93 @@
+Aquí tienes el resumen detallado del documento sobre Gestión del Riesgo (ISO 31000:2018), en formato texto plano y sin tablas, preparado para copiar en un archivo .txt.
+
+RESUMEN: GESTION DEL RIESGO SEGUN ISO 31000:2018
+
+INTRODUCCION Y CARACTERISTICAS DE LA NORMA La norma ISO 31000:2018 proporciona directrices para gestionar el riesgo al que se enfrentan las organizaciones.
+
+-- Naturaleza de la norma --
+
+Es una norma de directrices, NO es un sistema de gestión certificable.
+
+A diferencia de normas como la ISO 9001 o 14001, no contiene requisitos obligatorios, sino recomendaciones y pautas.
+
+Aunque no es certificable, se recomienda tener una estructura documental mínima (manual, procedimientos, instrucciones técnicas) .
+
+-- Definiciones clave --
+
+Riesgo: Es el "efecto de la incertidumbre sobre los objetivos". Puede ser positivo, negativo o ambos.
+
+
+
+Gestión del riesgo: Son las actividades coordinadas para dirigir y controlar la organización en relación con el riesgo.
+
+ESTRUCTURA DE ALTO NIVEL (HLS) La norma sigue la "Estructura de Alto Nivel" definida por ISO en 2012. Esto facilita la integración con otros sistemas de gestión (Calidad, Medioambiente, etc.) al compartir términos comunes y una misma estructura de epígrafes .
+
+CLASIFICACION DE LOS RIESGOS Según el estándar COSO III, los riesgos se pueden clasificar en cuatro categorías :
+
+Estratégicos: Afectan al alto nivel, la misión y la visión (ej: crisis económicas, cambios tecnológicos) .
+
+Operacionales o de proceso: Afectan a la eficacia y eficiencia de las operaciones diarias (ej: fallos en procedimientos, materiales o personal) .
+
+De transparencia: Relacionados con la fiabilidad de la información que la empresa da al mercado y a terceros (ej: informes financieros, publicidad) .
+
+De cumplimiento: Vinculados al cumplimiento de leyes, reglamentos y compromisos voluntarios.
+
+-- Conceptos fundamentales de medición --
+
+Riesgo Inherente: Es el riesgo consustancial a la actividad por su propia naturaleza, antes de aplicar controles (ej: riesgo de accidente en transporte).
+
+Riesgo Residual: Es el riesgo que permanece después de haber aplicado controles y sistemas de mitigación.
+
+LOS TRES PILARES DE LA ISO 31000 La norma se estructura en tres bloques principales: Principios, Marco de Referencia y Proceso.
+
+A) Principios (Capítulo 4) El propósito es crear y proteger el valor. Los 8 principios son:
+
+Integrada en todas las actividades.
+
+Estructurada y exhaustiva.
+
+Adaptada al contexto.
+
+Inclusiva (cuenta con las partes interesadas).
+
+Dinámica (anticipa cambios).
+
+Basada en la mejor información disponible.
+
+Considera factores humanos y culturales.
+
+Mejora continua .
+
+B) Marco de Referencia (Capítulo 5) Su eje central es el Liderazgo y Compromiso de la alta dirección. Implica integrar, diseñar, implementar, valorar y mejorar la gestión del riesgo en toda la organización.
+
+
+C) Proceso (Capítulo 6) Es la parte operativa y secuencial. Consta de las siguientes fases :
+
+Alcance, contexto y criterios: Definir dónde se aplica y bajo qué reglas.
+
+Evaluación del riesgo (Subdividida en tres pasos):
+
+Identificación: Encontrar qué puede suceder (usando DAFO, Ishikawa, etc.).
+
+
+Análisis: Estimar la probabilidad y las consecuencias.
+
+Valoración: Comparar los resultados con los criterios para decidir si se actúa.
+
+Tratamiento del riesgo: Seleccionar opciones para modificar el riesgo (evitarlo, aceptarlo, eliminar la fuente, modificar probabilidad/consecuencias, compartirlo o retenerlo) .
+
+Registro e informe: Documentar y comunicar resultados.
+
+EVALUACION Y MATRIZ DE RIESGOS Para priorizar los riesgos, se utiliza la Matriz de Riesgos, que cruza dos variables:
+
+Probabilidad de ocurrencia (escala 1 a 5).
+
+Gravedad o Impacto (escala 1 a 5) .
+
+-- Fórmulas de cálculo --
+
+Riesgo Inherente = Probabilidad x Impacto.
+
+Riesgo Residual = Riesgo Inherente x Eficacia de los controles.
+
+La dirección debe centrar sus esfuerzos (planes de contingencia) en aquellos riesgos que resulten altos en la matriz y donde la eficacia de los controles sea baja.

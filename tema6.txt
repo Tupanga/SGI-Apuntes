@@ -1,0 +1,88 @@
+RESUMEN: LA GESTION MEDIOAMBIENTAL
+
+EVOLUCION HISTORICA DE LA PREOCUPACION AMBIENTAL La relación entre empresa y medio ambiente ha pasado por tres grandes etapas históricas:
+
+-- Etapa de ausencia de preocupación (Hasta años 70) --
+
+Antes de la Revolución Industrial: Había armonía con el entorno y no existían problemas ambientales relevantes.
+
+Revolución Industrial a 1940s: Aumenta la producción y el consumo de recursos. Se cree que la naturaleza es infinita y puede tolerar cualquier daño. La prioridad absoluta es el crecimiento económico .
+
+1940s a 1970s: La reconstrucción posguerra y la tecnología presionan el entorno. Se considera que proteger el ambiente frena el crecimiento económico, aunque la ONU empieza a alertar del problema en 1968 .
+
+-- Etapa de inicio de la preocupación (1972-1987) -- El punto de inflexión es el informe "Los límites del crecimiento" (Club de Roma, 1972), que predice el agotamiento de recursos y propone el "crecimiento cero". Nace la Economía Ambiental y el principio de "quien contamina paga" .
+
+-- Etapa de consolidación (Desde 1987) -- Se asienta el concepto de Desarrollo Sostenible (satisfacer necesidades presentes sin comprometer las futuras) y se globaliza la gestión ambiental mediante cumbres internacionales.
+
+
+LA NORMA ISO 14001:2015 Es el estándar internacional más relevante para la gestión ambiental. Proporciona un marco para proteger el medio ambiente en equilibrio con las necesidades socioeconómicas.
+
+-- Objetivos del Sistema de Gestión Ambiental (SGA) --
+
+Proteger el medio ambiente y prevenir impactos adversos.
+
+Cumplir requisitos legales.
+
+Mejorar el desempeño ambiental.
+
+Aplicar una perspectiva de ciclo de vida (desde el diseño hasta el fin de vida del producto).
+
+Obtener beneficios financieros y mejorar la imagen de la organización .
+
+-- Estructura de Alto Nivel (Anexo SL) -- La versión 2015 adopta la Estructura de Alto Nivel (HLS), común a todas las normas ISO (como la 9001). Esto facilita la integración de sistemas. Sus cláusulas principales son: Contexto, Liderazgo, Planificación, Soporte, Operación, Evaluación del desempeño y Mejora .
+
+
+EL CICLO PHVA (PDCA) EN GESTION AMBIENTAL La norma se basa en el ciclo de mejora continua:
+
+Planificar: Establecer objetivos ambientales y procesos necesarios.
+
+Hacer: Implementar lo planificado.
+
+Verificar: Medir y seguir los procesos respecto a la política ambiental y requisitos legales.
+
+Actuar: Tomar acciones para mejorar continuamente .
+
+PROCESO DE IMPLANTACION DEL SGA La implantación es compleja y requiere varias fases:
+
+Decisión y Liderazgo: Debe nacer de la dirección.
+
+Responsable del proyecto: Elección de una persona con autoridad y conocimiento de la empresa.
+
+Evaluación y Diagnóstico Inicial: Comparar la situación real de la empresa con los requisitos de la norma (Gap analysis) y medir el desempeño ambiental de partida .
+
+Documentación: Elaborar la "información documentada" necesaria.
+
+Implantación y Gestión del Cambio: Ejecutar los cambios, formar al personal y vencer la resistencia al cambio mediante comunicación y participación .
+
+Auditoría y Revisión: Verificar que el sistema funciona.
+
+-- Documentación del Sistema (Información Documentada) -- La norma ya no distingue estrictamente entre documentos y registros, sino que habla de "información documentada". La estructura típica incluye:
+
+Manual del SGA: Describe el alcance, el contexto, la política y los procesos .
+
+Procedimientos: Describen cómo, cuándo y quién realiza las actividades (ej: control operacional, emergencias).
+
+Instrucciones Técnicas: Detalles específicos de tareas operativas.
+
+Registros: Evidencias de los resultados obtenidos (ahora "información documentada a conservar") .
+
+CERTIFICACION ISO 14001 Es el proceso mediante el cual una entidad externa acredita el cumplimiento de la norma.
+
+Auditoría Fase 1: Revisión documental para ver si el sistema está listo.
+
+Auditoría Fase 2: Auditoría in situ para verificar la implementación real.
+
+Validez: El certificado dura 3 años, con auditorías de seguimiento anuales .
+
+REGLAMENTO EMAS (ECO-MANAGEMENT AND AUDIT SCHEME) Es una normativa voluntaria de la Unión Europea, más exigente que la ISO 14001.
+
+-- Diferencias clave con ISO 14001 --
+
+Declaración Ambiental: EMAS obliga a publicar una declaración ambiental validada y ponerla a disposición del público (transparencia). ISO 14001 no lo exige .
+
+Ámbito: EMAS es europeo; ISO es mundial.
+
+Exigencia: EMAS requiere una revisión ambiental inicial obligatoria y auditorías cada 3 años fijas. Implica más activamente a los empleados.
+
+
+En resumen, la gestión ambiental ha pasado de ser ignorada a ser un pilar estratégico, gestionado a través de sistemas normalizados (ISO 14001 o EMAS) que buscan la mejora continua y la sostenibilidad.
