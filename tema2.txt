@@ -1,0 +1,95 @@
+1. Introducción a la Estrategia
+El objetivo fundamental de la estrategia es crear una diferenciación que garantice la supervivencia de la empresa a largo plazo y su competitividad.
+
+
+Definición: La estrategia define las metas a largo plazo, las acciones a adoptar y la asignación de recursos necesarios. Porter la define como seleccionar actividades para establecer una diferencia sostenible.
+
+
+
+Gestión Estratégica: Es un proceso cíclico compuesto por cuatro fases: análisis, formulación, despliegue y seguimiento.
+
+2. Fase 1: Análisis Estratégico
+Esta fase busca entender dónde está la organización y a qué se enfrenta. Se compone de tres pilares fundamentales:
+
+A. Definición de la Identidad Corporativa
+
+Misión: Razón de ser de la empresa. Responde a "¿Por qué existimos?". Se recomienda usar la técnica de los "5 porqués" para encontrar la causa raíz y la verdadera misión.
+
+
+
+Visión: Imagen del futuro deseado. Responde a "¿Qué queremos ser?" a largo plazo. Debe ser ambiciosa pero realista.
+
+
+
+Valores: Principios éticos y cultura de la organización. Responde a "¿Cómo hacemos las cosas?".
+
+
+B. Análisis del Entorno (Externo)
+
+
+Entorno General: Factores políticos, económicos, sociales, tecnológicos y legales que afectan a la empresa.
+
+
+Entorno Competitivo (Porter): Análisis de las 5 fuerzas competitivas:
+
+Nuevos competidores (barreras de entrada).
+
+Rivalidad entre competidores actuales.
+
+Productos sustitutivos.
+
+Poder de negociación de los clientes.
+
+Poder de negociación de los proveedores.
+
+C. Análisis Interno y Diagnóstico
+
+Se evalúan fortalezas y debilidades internas, a menudo usando modelos como EFQM.
+
+
+Matriz DAFO: Integra el análisis interno (Debilidades, Fortalezas) y externo (Amenazas, Oportunidades).
+
+
+Matriz CAME: Herramienta para definir estrategias tras el DAFO: Corregir debilidades, Afrontar amenazas, Mantener fortalezas y Explotar oportunidades.
+
+3. Fase 2: Formulación de la Estrategia
+Consiste en definir cómo alcanzar la Visión partiendo de la situación actual, cerrando el "Gap Estratégico". Se establecen objetivos estratégicos divididos en 4 perspectivas (basadas en el Cuadro de Mando Integral):
+
+
+Financiera: Crear valor para el accionista (crecimiento, rentabilidad, sostenibilidad).
+
+
+Clientes: Definir la propuesta de valor. Las estrategias suelen ser: excelencia operativa, liderazgo de producto o relación con el cliente.
+
+
+
+Procesos Internos: Procesos clave en los que se debe ser excelente (innovación, operativos y servicio post-venta).
+
+
+
+Aprendizaje y Crecimiento: Recursos intangibles necesarios: personas (capital humano), tecnología y clima organizacional.
+
+
+4. Fase 3: Despliegue de la Estrategia
+Para hacer operativa la estrategia, se utilizan varias herramientas clave:
+
+
+Mapa Estratégico: Representación gráfica que muestra las relaciones causa-efecto entre los objetivos de las cuatro perspectivas.
+
+Indicadores: Herramientas de medición. Pueden ser de causa (indican esfuerzo futuro) o de resultado (indican logros pasados).
+
+
+
+Metas: Valores cuantificables y temporales que se desea alcanzar en cada indicador.
+
+Iniciativas Estratégicas: Proyectos y acciones concretas para lograr los objetivos. Se deben priorizar mediante matrices de impacto/esfuerzo.
+
+
+5. Fase 4: Seguimiento y Mejora (Cuadro de Mando Integral - CMI)
+El CMI (Balanced Scorecard) es la herramienta principal para la gestión estratégica. Permite:
+
+Alinear a toda la organización con la estrategia.
+
+Monitorizar el cumplimiento de objetivos mediante indicadores.
+
+Realizar un seguimiento periódico y aplicar la mejora continua.
