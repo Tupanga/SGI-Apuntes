@@ -17,6 +17,23 @@ de gestion : explican como debe gestionarse algo
 
 Las normas aseguran una certificacion y una acreditacion mediante la cual aportan seguridad, calidad, proteccion ambiental....
 Busca la libre circulacion de mercancias.
+----------------------------------------------------------------------------------------------------
+DAFO/CAME:
+DAFO: DEBILIDADES AMENZAS FORTALEZAS OPORTUNIDADES
+CAME: CORREGIR AFRONTAR MANTENER EXPLOTAR
+
+CMI:
+Herramienta para dirigir una organizacion en la que se canalizan habilidades, energias y conocimientos hacia las metas estrategicas a largo plazo, 
+desepeño financiero
+conocimiento del cliente 
+procesos internos 
+aprendizaje y creciemiento
+
+Proceso de gestion estrategica ciclico
+ 
+
+-----------------------------------------------------------------------------------------------------
+Certificacion: 
 
 -----------------------------------------------------------------------------------------------------
 
@@ -26,8 +43,12 @@ ISOS importantes:
 ,apoyo ,evaluacion del desempeño....
 liderazgo: roles claramente definidos, responsabilidades y niveles de autoridad, 
 Enfoque de procesos:intrumentos de seguimineto y medicion,  identificacion de riesgos y oportunidades -- diagrama de ishikawa
-14001 -2015:
-ambas combinadas forman la 31000 
+14001 -2015: Gestion ambiental 
+Proteccion medioambiental preveninedo o mitigando los impactos en el medioambiente, reduccion de riesgos, cumplimiento de requisitos legales, divulgacion de la informacion medioabiental.
+Metodo PDCA: PLAN DO CHECK ACT 
+No es posible estandarizar en su totalidad ya que y sus procesos tambien.
+A la hora de implantar, hay que tener en cuenta que procesos queremos que se vean afectados, modificar actividades para adaptarse a la norma, ver en que medidas beneficia a la empresa y 
+a las partes interesadas. Documentarlo. 
 31000 -2018: Gestion de riesgos dentro de una organizacion, de cualquier tamaño o tipo,  establece que la gestion del riesgo debe ser iterativa y parte de todas las actividades, 
 proporciona un enfoque comun a cualquier actvidad, independientemete del sector:
 Parte integral de todas las actividades,
