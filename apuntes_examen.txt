@@ -1,0 +1,51 @@
+----------------------------------------------------------------------------------------------------
+Normalizacion mas ejemplos: 
+Es la actividad que establece normas para uso comun y repetido, conjunto de reglas para asegurarnos que todos los productos cumplen ciertas especificaciones, por ejemplo:
+un tornillo fabricado en alemania, puede ser utilizado con una tuerca fabricada en españa, porque se ha llegado a un acuerdo en sus medidas
+
+ISO: caracter internacional
+EN: caracter europeo 
+UNE: caracter español 
+
+Ejemplo tamaño de folios:
+tamaños de folios A4, A3 ... estandarizados globalmente.
+
+Tipos de normalizacion: 
+de producto : Explican caracteristicas de algo.
+de proceso : explican como se hace algo
+de gestion : explican como debe gestionarse algo
+
+Las normas aseguran una certificacion y una acreditacion mediante la cual aportan seguridad, calidad, proteccion ambiental....
+Busca la libre circulacion de mercancias.
+
+-----------------------------------------------------------------------------------------------------
+
+ISOS importantes:
+
+9001 -2015: Sisetmas de gestion de calidad es una serie de requisitos que quiere que se cumplan en las organizaciones. como son un contexto en la planificacion, liderazgo, organizacion
+,apoyo ,evaluacion del desempeño....
+liderazgo: roles claramente definidos, responsabilidades y niveles de autoridad, 
+Enfoque de procesos:intrumentos de seguimineto y medicion,  identificacion de riesgos y oportunidades -- diagrama de ishikawa
+14001 -2015:
+ambas combinadas forman la 31000 
+31000 -2018: Gestion de riesgos dentro de una organizacion, de cualquier tamaño o tipo,  establece que la gestion del riesgo debe ser iterativa y parte de todas las actividades, 
+proporciona un enfoque comun a cualquier actvidad, independientemete del sector:
+Parte integral de todas las actividades,
+Enfoque estructurado,
+adaptado al contexto interno y externo.
+Mejora continua.
+Registro e informe
+Matriz de riesgos  
+
+----------------------------------------------------------------
+7 herramientas de gestion de calidad:
+
+Hoja de comprobacion, verificacion y anaisis de datos: Hoja en la que se recogen observaciones y hechos con interes de estudio, 
+Histograma: representacion grafica de la dispersion de un proceso, para decubrir patrones o valores anomalos.
+Diagrama de pareto : Diagrama de barras en el que se ordenan elemntos segun grado de importancia, 20% de causas 80% problemas.
+Diagrama de ishikawa o causa efecto: Diagnostico de probelmas, se divide en grupos de causas de un problema, ejemplos: Metodo, Mano de obra, Material, Maquinas. Politicas, Procedimientos
+Personas, Plantas...
+Diagrama de dispersion: Diagnostico de probelmas de dos variables para identificar patrones.
+Diagrama de estratificacion: Recogida y analsis de datos diviendolos en grupos, colocado en un grafico de barras
+Hoja de control: Diagnostico de problemas a lo largo del tiempo para ver como varian.
+
