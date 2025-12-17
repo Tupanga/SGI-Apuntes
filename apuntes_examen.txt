@@ -34,6 +34,15 @@ Proceso de gestion estrategica ciclico
 
 -----------------------------------------------------------------------------------------------------
 Certificacion: 
+El proceso de certificacion consiste en realizar auditorias internas, comprobando que este bien, despues de realizarlas se solicita una auditoria externa a una entidad de certificacion 
+para que lo verifique, esta certificacion se divide en dos fases: 
+Fase 1: se compara las normas con el proceso en cuestion y documentan las discrepancias encontradas, las cuales son divididas en 3 apartados:
+1: No conformidades mayores: Incumplimiento de norma o requisito, se deben resolver antes de pasar a fase 2
+2: No conformidades menores: Incumpliemiento parcial o menor de norma o requisito, deben de estar en fase de resolucion antes de la fase2
+3: Observaciones: Oportunidades de mejora
+
+Fase 2: fase de detalle, se comprueba que se cumplen con todas las normas , una vez superada la segunda fase, se concede la certificacion.
+Hay que tener en cuenta que se suelen llevar a cabo auditorias de seguimiento para comprobar que se siguen cumpliendo los requisitos. 
 
 -----------------------------------------------------------------------------------------------------
 
@@ -70,3 +79,20 @@ Diagrama de dispersion: Diagnostico de probelmas de dos variables para identific
 Diagrama de estratificacion: Recogida y analsis de datos diviendolos en grupos, colocado en un grafico de barras
 Hoja de control: Diagnostico de problemas a lo largo del tiempo para ver como varian.
 
+------------------------------------------------------------------------------------------------------
+Metodo FINE:
+Es un metodo de evaluacion de riesgo, en el cual dado un riesgo cualquiera, se establece un valor al mismo que indica la urgencia con la que tiene que ser tratado o mitigado:
+C * E * P = Ri
+C(consecuencias):= 1 - 5- 15 - 25 -100 siendo 1 lesiones leves y 100 varias muertes 
+E(exposicion):= 0.5 al 10 siendo 0.5 muy raramente y 10 varias veces al dia 
+P(probabilidad):= 0.1 al 10 siendo 0.1 <0.1% y 10 85%>
+
+Ri< 90 Riesgo leve a eliminar sin demora pero sin prisa
+90<Ri<270 Riesgo moderado a eliminar lo mas pronto posible 
+Ri>270 Riesgo extremo, requiere intervencion inmediata 
+
+Justificacion de coste:
+Se vuelve a calcular el Ri con una medida nueva,
+se le asigna un valor al coste del 0,5 al 10 
+se asigna un grado de correccion del 1 100% al 6 <25%
+se multiplican ambos y se usa como dividendo entre el Ri inicial, en el caso de que el resultado sea mayor que 10 se considera una accion a tomar. 
